@@ -5,3 +5,4 @@ scikit-learn==0.20.3
 pandas
 onnx
 onnxruntime
+h11>=0.16.0 # not directly required, pinned by Snyk to avoid a vulnerability
